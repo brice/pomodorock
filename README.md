@@ -92,6 +92,7 @@ will result the same.
 Just **backup** on the former computer before moving to the new one.
 
 
+
 ## Let me help you
 
 We now have a Database *Backup/Restore* feature. The whole localStorage database
